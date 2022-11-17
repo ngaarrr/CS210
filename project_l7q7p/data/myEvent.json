@@ -1,0 +1,21 @@
+{
+    "name of event": "My Event",
+    "guest list": [
+        {
+            "age of guest": 32,
+            "name of guest": "Mahmoud",
+            "gender of guest": "Male"
+        },
+        {
+            "age of guest": 36,
+            "name of guest": "Negar",
+            "gender of guest": "Female"
+        },
+        {
+            "age of guest": 36,
+            "name of guest": "Negar",
+            "gender of guest": "Female"
+        }
+    ],
+    "capacity of event": 200
+}

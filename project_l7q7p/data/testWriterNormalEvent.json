@@ -1,0 +1,16 @@
+{
+    "name of event": "My MyEvent",
+    "guest list": [
+        {
+            "age of guest": 18,
+            "name of guest": "Lindsay Chavez",
+            "gender of guest": "Female"
+        },
+        {
+            "age of guest": 53,
+            "name of guest": "Batool Zarei",
+            "gender of guest": "Female"
+        }
+    ],
+    "capacity of event": 300
+}
